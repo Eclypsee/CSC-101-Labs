@@ -1,0 +1,4 @@
+load
+filter-by-attr-gt:determination:240
+filter-by-attr-gt:willpower:240
+report-creatures

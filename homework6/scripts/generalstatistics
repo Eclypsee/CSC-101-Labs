@@ -1,0 +1,17 @@
+load
+report-avg-exp
+report-avg-attr:resilience
+report-avg-attr:courage
+report-avg-attr:willpower
+report-avg-attr:determination
+report-percent-by-kind:nature
+report-percent-by-kind:fire
+report-percent-by-kind:water
+report-percent-by-kind:light
+report-percent-by-kind:dark
+report-percent-by-kind:electric
+report-percent-by-kind:ice
+report-percent-by-kind:earth
+report-percent-by-kind:metal
+report-percent-by-kind:wind
+report-percent-by-kind:toxic

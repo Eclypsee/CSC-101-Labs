@@ -1,0 +1,32 @@
+7
+7.0
+7.0
+'34.0'
+4.666666666666667
+4
+4.0
+2
+21
+42
+81
+
+<class 'int'>
+<class 'float'>
+<class 'float'>
+<class 'str'>
+<class 'float'>
+<class 'int'>
+<class 'float'>
+<class 'int'>
+<class 'int'>
+<class 'int'>
+<class 'str'>
+
+# trace table?
+# Line	    cat	            cats
+# 4         'mochi'
+# 6                      'mochiharvest'
+# 8                      'mochiharvestpearl'
+# 10                     'harvestpearl'
+# 12
+

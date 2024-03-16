@@ -1,0 +1,4 @@
+load
+filter-by-attr-lt:courage:24
+filter-by-kind:fire
+report-creatures
